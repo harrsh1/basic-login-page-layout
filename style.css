@@ -1,0 +1,204 @@
+body{
+    background: linear-gradient(287.56deg, #0F0C29 0%, #302B63 50%, #24243E 100%);
+    
+
+
+}
+.detail1{
+    /* Group */
+
+position: absolute;
+left: 21.84%;
+right: 65.42%;
+top: 28.25%;
+bottom: 59.47%;
+
+filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.5));
+
+}
+.detail2{
+    /* Group */
+
+position: absolute;
+left: 20.06%;
+right: 71.82%;
+top: 48.82%;
+bottom: 49.35%;
+
+
+}
+.detail3{
+    /* Group */
+
+position: absolute;
+
+right: 0;
+
+bottom: 0;
+
+opacity: 0.5;
+
+}
+.detail4{
+   /* Group */
+
+position: absolute;
+left: 0;
+bottom:0 ;
+
+opacity: 0.5;
+ 
+}
+.detail5{
+   /* Group */
+
+position: absolute;
+left: 66.3%;
+right: 24.52%;
+top: 68.89%;
+bottom: 25.87%;
+
+filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.5));
+
+}
+.detail6{
+    /* Group */
+
+position: absolute;
+left: 70.66%;
+right: 20.16%;
+top: 77.12%;
+bottom: 19.63%;
+
+
+}
+.blur-main-container{
+    position: absolute;
+    width: 650px;
+    height: 650px;
+    background: rgba(255, 255, 255, 0.1);
+    top: 15%;
+    left: 32%;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+    border-right: 200px;
+    border-width: 200px;
+    border-color: black;
+    backdrop-filter: blur(25px)
+
+
+}
+.login{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    width: 96px;
+height: 46px;
+top: 285px;
+left: 711px;
+gap: 0px;
+opacity: 0px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 38px;
+font-weight: 700;
+line-height: 45.94px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  rgba(255, 255, 255, 1);
+
+
+}
+.main-entry-area{
+    padding-left: 20px;
+}
+.text{
+    width: 78px;
+    height: 21px;
+    top: 463px;
+    left: 711px;
+    gap: 0px;
+    opacity: 0px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 20.88px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+padding-top: 20px;
+padding-bottom: 0.6px;
+
+}
+.entries{
+    width: 500px;
+height: 50px;
+top: 383px;
+left: 711px;
+gap: 0px;
+border-radius: 10px 10px 10px 10px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+border: 1px solid rgba(188, 190, 192, 1);
+padding-left: 20px;
+padding-bottom: 1px;
+
+}
+.forgot-password-text{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ 
+}
+.padding-for-forgot{
+    padding-bottom: 10px;
+}
+#loginButton{
+    width: 524px;
+    height: 50px;
+    top: 383px;
+    left: 711px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+    border: 1px solid rgba(188, 190, 192, 1);
+   
+    background: rgba(189, 12, 71, 1);
+    text-align: center;
+    
+}
+.button{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    
+}
+.or-continue-with{
+    text-align: center;
+    color: aliceblue;
+    padding-right: 90px;
+    padding-bottom: 20px;
+}
+.social-buttons{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#loginButton:hover {
+    background: #0F0C29;
+    color: white;
+  }
+ 
+.eye-icon{
+   height: 2px;
+
+    z-index: 1000;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 434px;
+    left: 1168px;
+}
+.eye-image{
+    height: 80px;
+    width: auto;
+}
